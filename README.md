@@ -14,7 +14,7 @@ The objective of the workshop is to showcase the use of AI hand tracking through
 
 In this workshop, participants will learn sign language through the use of AI that will help guide them using hand tracking through a computer camera. They will learn how to spell one word before moving on to a fun memory game.
 
-## :bulb: Project Information
+## :bulb: Project information
 <!-- 
 Your Options for target audience: 
   - High School
