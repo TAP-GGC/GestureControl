@@ -2,9 +2,9 @@
 <!-- This section is where you will replace the link to your transparent logo, the title of your project, and the very short desciptor of your project -->
 <!-- If you used Canva to make your icon and don't want to pay for a background remover, you can use the website https://www.remove.bg/ to do so -->
 <p align="center">
-  <img alt="Template Logo" src="media/logos/Transparent Version.png" width="" height="350" />
+  <img alt="Mascot Logo(Will be changed)" src="C:\Users\LM485\Documents\School\College Stuff\C Junier\TAP\Mascot.png" width="" height="350" />
   <h1 align="center">Teaching Sign Language Using AI Hand Tracking Technology</h1>
-  <p align="center">A project for ... by team Emu Unicorn Sauce </p>
+  <p align="center">A project by Emu Unicorn Sauce </p>
 </p>
 <!-- the emojis are not set in stone! If you'd like you can remove them entirely or select your own from https://gist.github.com/rxaviers/7360908 you are welcome to -->
 
