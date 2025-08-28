@@ -3,16 +3,16 @@
 <!-- If you used Canva to make your icon and don't want to pay for a background remover, you can use the website https://www.remove.bg/ to do so -->
 <p align="center">
   <img alt="Template Logo" src="media/logos/Transparent Version.png" width="" height="350" />
-  <h1 align="center">Project Template (Example: A Game that Emphasizes the Importance of Programming Statements)</h1>
-  <p align="center">A project for ... by team ... </p>
+  <h1 align="center">Teaching Sign Language Using AI Hand Tracking Technology</h1>
+  <p align="center">A project for ... by team Emu Unicorn Sauce </p>
 </p>
 <!-- the emojis are not set in stone! If you'd like you can remove them entirely or select your own from https://gist.github.com/rxaviers/7360908 you are welcome to -->
 
 ## :loudspeaker: About
-The objective of the workshop is  ...
+The objective of the workshop is to showcase the use of AI hand tracking through learning sign language.
 <!-- You can look at other TAP projects if you need a better idea of how to describe your workshops objectives -->
 
-This workshop has participants do ...
+In this workshop, participants will learn sign language through the use of AI that will help guide them using hand tracking through a computer camera. They will learn how to spell one word before moving on to a fun memory game.
 
 ## :bulb: Project Information
 <!-- 
@@ -29,12 +29,12 @@ You can select from a range of audiences or a single auidience. Examples:
     K-12
   You will be presenting most often to your peers who are taking introductory technology classes, so more often than not you should be including college in your target audience range. 
 -->
-* <b>Difficulty Level:</b> Choose your workshop difficulty (Beginner/Intermediate/Advanced)
-* <b>Target Audience:</b> K12 - College (edit .md file to view all options presented in the markdown comments)
-* <b>Duration of Workshop:</b> How long your workshop takes (1 hour, 30 minutes, etc.) 
-* <b>Needed Materials:</b> Materials needed to do your workshop (computer with keyboard, sphero, etc.)
-* <b>Learning Outcomes:</b> The primary goal of this project is to teach participants ...
-* <b>Your Main Technology</b> Name of Technology and then a brief descriptor. You will go more in depth on the technology used in a different section. 
+* <b>Difficulty Level:</b> Beginner/Intermediate
+* <b>Target Audience:</b> Middle School - College
+* <b>Duration of Workshop:</b> About 1 hour
+* <b>Needed Materials:</b> Computer with camera
+* <b>Learning Outcomes:</b> The primary goal of this project is to teach participants about how AI tracking is being used 
+* <b>Your Main Technology</b> AI hand tracking, works by using computer vision to analyze and detect an object's position
 * [Technology Ambassador Program](https://tapggc.org/) <b>(TAP)</b> is a project-based class that provides a collaborative environment for students to work with their fellow classmates on a semester-long project using technologies of their choice. TAP strives to increase participation in IT through numerous outreach activities and workshops that are designed to showcase the creative and fun side of technology.
 <!-- Commercial Video stored in the Media folder will be linked here -->
 
@@ -42,7 +42,7 @@ You can select from a range of audiences or a single auidience. Examples:
 
 <!-- videos can also be dragged and dropped into markdown files if you want them embedded -->
 
-## :pencil2: Team: Team Name
+## :pencil2: Team: Emu Unicorn Sauce
 
 <!-- Use the team photo of your choice once youve uploaded it to the team photo folder within the media folder -->
 <img alt="art featuring batman, wonder woman, and superman" src = "media/team photos/Team Photo.JPG" width="" height="300">
@@ -50,15 +50,14 @@ You can select from a range of audiences or a single auidience. Examples:
 > (From left to right: Batman,  Wonder Woman, Superman.)
 <!-- replace with full names of your team members -->
 
-* Team Member 1
-* Team Member 2
-* Team Member 3
-* Team Member 4
+* Joey Chen
+* Ivana Hernandez
+* Keren Zhang
 
 ## :mortar_board: Advisors
 <!-- name of the two professors overseeing your TAP class -->
-* Dr. John Doe
-* Dr. Jane Doe
+* Dr. Wei Jin
+* Dr. Xin Xu
 
 
 ## :page_with_curl: Project Description
