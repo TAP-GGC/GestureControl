@@ -61,8 +61,14 @@ You can select from a range of audiences or a single auidience. Examples:
 
 
 ## :page_with_curl: Project Description
-A more thorough description of your project. Not a full walkthrough, but describe the different sections of your project and the gist of what participants will be doing when interacting with it and what they'll learn.
+Participants begin by exploring an AI-powered hand tracking system that provides real-time feedback on their gestures. Unlike traditional sign language learning through videos, where learners often struggle to know whether their hand positions are accurate, this system uses computer vision to mirror participants’ movements and measure their accuracy.
 
+During the workshop, learners will follow guided exercises in which an AI model recognizes their hand shapes and displays a matching 3D avatar performing the correct sign. The system highlights the percentage of accuracy (e.g., 90%, 98%, 100%) to help participants understand their progress before moving to the next gesture.
+
+The project leverages technologies such as MediaPipe for hand tracking, allowing users to see their own skeletal hand overlay compared with the target gesture in real time. By doing so, participants not only practice sign language but also gain an interactive and immersive learning experience.
+
+Compared to traditional methods—such as watching videos or attending in-person classes—this approach is more flexible and accessible. Learners can study anywhere, anytime, while receiving immediate feedback, which significantly increases engagement and retention. This interactive model transforms sign language learning into a process that is visual, participatory, and highly effective.
+<!--keren 8.29.2025-->
 ## :memo: Publications
 <!-- team members, then professors/advisors. "Name of Publication", event, month and day, year, Georgia Gwinnett College. -->
 1. Team Member, Team Member, Team Member, John Doe, Jane Doe. "A Real Fake Workshop", Fake Event, April 1, 2024, Georgia Gwinnett College.  
