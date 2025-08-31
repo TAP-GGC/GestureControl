@@ -69,6 +69,8 @@ The project leverages technologies such as MediaPipe for hand tracking, allowing
 
 Compared to traditional methods—such as watching videos or attending in-person classes—this approach is more flexible and accessible. Learners can study anywhere, anytime, while receiving immediate feedback, which significantly increases engagement and retention. This interactive model transforms sign language learning into a process that is visual, participatory, and highly effective.
 <!--keren 8.29.2025-->
+In addition to practicing sign language, participants will also be introduced to the underlying technology behind the system. The workshop will cover how AI hand tracking works, including concepts of computer vision, gesture recognition, and how different components (such as MediaPipe, 3D models, and accuracy scoring) are integrated into one interactive platform. By walking through these technical elements, participants will not only experience the application but also gain insight into how to build such a system themselves.
+<!--keren 8.30.2025-->
 ## :memo: Publications
 <!-- team members, then professors/advisors. "Name of Publication", event, month and day, year, Georgia Gwinnett College. -->
 1. Team Member, Team Member, Team Member, John Doe, Jane Doe. "A Real Fake Workshop", Fake Event, April 1, 2024, Georgia Gwinnett College.  
