@@ -215,4 +215,5 @@ print("- This app would capture live video")
 print("- MediaPipe would detect and track hands in real-time")
 print("- Hand landmarks would be drawn on the video feed")
 print("- Users could interact via hand gestures")
+
 print("\nThe application is ready to run with proper hardware!")
