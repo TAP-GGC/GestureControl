@@ -120,14 +120,15 @@ Your repo doesn't have to have every section used below. This is just an example
 ### Getting to the game 
 [Click here to view instructions](/documents/tutorial%20materials/Getting%20to%20the%20Game.md)
 
-## Usage
-<i> Describe HOW to use your game. </i> 
-Example: 
-1. Press the Left arrow key to move to the left.
-2. Press the Right arrow key to move to the right.
-3. Press the Up arrow key to move up.
-4. Press the Down arrow key to move down.
-5. You may also replace the arrow keys with a Makey Makey. 
+## How to use Gesture Control
+1. Search up a the ASL alphabet and use the pictures with Gesture Control
+2. Go to our website https://gesture-control-xli6.onrender.com/ <!-- Place holder link -->
+3. In the dropdown menu select 'Webcam'.
+4. Click 'Start Camera' and allow camera if the option appears.
+5. If the status says 'Connected' Select a letter you like to sign.
+6. Click 'Start Recognition'.
+7. Sign the letter you picked
+8. When you're done click 'Stop' next to 'Start Recognition'
 
 ## Short Demo Instructions 
 [Demo Video on how to install and play our game](https://youtu.be/mA80Aa55t-U)
