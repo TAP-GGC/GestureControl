@@ -2,7 +2,7 @@
 <!-- This section is where you will replace the link to your transparent logo, the title of your project, and the very short desciptor of your project -->
 <!-- If you used Canva to make your icon and don't want to pay for a background remover, you can use the website https://www.remove.bg/ to do so -->
 <p align="center">
-  <img alt="Mascot Logo(Will be changed)" src="media/logos/p1.PNG" width="" height="350" />
+  <img alt="Mascot Logo(Will be changed)" src="media/logos/GestureControlLogoTransparent.PNG" width="" height="350" />
   <h1 align="center">Teaching Sign Language Using AI Hand Tracking Technology</h1>
   <p align="center">A project by Emu Unicorn Sauce </p>
 </p>
