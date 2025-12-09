@@ -95,13 +95,19 @@ If you're interested in more workshops that utilize Scratch, check it out [Space
   <img alt="Scratch Logo" src = "media/technology/scratch logo.png" width="200" height="200"/>
 </p>
 
-* [Scratch](https://scratch.mit.edu/) is a block-based programming language developed by the MIT Media Lab as an education tool for children to learn computing in a fun and interactive way.
-* Scratch has drag-and-drop interfaces. Unlike text-based programming language like Java or C where you physically type every line of code, in Scratch, you can drag and drop pre-made codes and organize them into an algorithm. It's like solving a jigsaw puzzle!
-* Explain why your team chose this technology for this workshop.
+* [PyCharm](https://www.jetbrains.com/pycharm/) PyCharm is a professional integrated development environment (IDE) specifically designed for Python development. It provides powerful tools like intelligent code completion, debugging, refactoring, and integrated testing support.
 
 <p align="center">
-<img src = "media/technology/block-based language.png" width ="400" height="200">
+  <img alt="Scratch Logo" src = "media/technology/scratch logo.png" width="200" height="200"/>
 </p>
+
+* [OnRender](https://render.com/) Render is a cloud hosting platform that lets developers deploy web apps, static sites, background workers, and databases with minimal configuration. It automates builds, scaling, SSL, and deployment pipelines, making it popular for hosting full-stack applications. Render offers a simple UI and Git-based deployments.
+
+<p align="center">
+  <img alt="Scratch Logo" src = "media/technology/scratch logo.png" width="200" height="200"/>
+</p>
+
+* [Vite](https://vite.dev/) Vite is a fast front-end development build tool created by Evan You, designed to provide near-instant server startup and lightning-fast hot module replacement (HMR). It uses native ES modules in development and Rollup for optimized production builds. Vite is widely used in modern frameworks like Vue, React, and Svelte for its speed and simplicity.
 
 ## Project Setup/Installation 
 <i> This section is dedicated to linking to .md files in your documents/tutorial/ folder that will contain instructions on installation
