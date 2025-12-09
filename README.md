@@ -30,7 +30,7 @@ You can select from a range of audiences or a single auidience. Examples:
 -->
 * <b>Difficulty Level:</b> Beginner/Intermediate
 * <b>Target Audience:</b> Middle School - College
-* <b>Duration of Workshop:</b> About 30 min
+* <b>Duration of Workshop:</b> between 30 min - 45 mins
 * <b>Needed Materials:</b> Computer with camera
 * <b>Learning Outcomes:</b> The primary goal of this project is to teach participants about how AI tracking is being used 
 * <b>Your Main Technology</b> AI hand tracking, it works by using computer vision to analyze and detect an object's position
@@ -79,6 +79,7 @@ In addition to practicing sign language, participants will also be introduced to
 1. Super Saturday Series (S3), November 15, 2025, GGC – Promote IT and STEM career to middle school girls and boys
 2. Tap Expo, October 9, 2025, GGC – Promote IT field and the TAP program to college students
 3. Class Workshops, November 4-14, 2025, GGC - Promote IT to non-IT college students
+4. Cross Keys High School Workshop, November 14, 2025, GGC - Promote IT to high school students at Cross Keys High School
 
 ## :mag_right: Similar Projects
 
