@@ -120,6 +120,13 @@ If you're interested in more workshops that utilize AI, check it out [AI Diva](h
 7. Sign the letter you picked
 8. When you're done click 'Stop' next to 'Start Recognition'
 
+## Gesture Control Demo Video
+
+This is the demo video for our gesture-based web app project!
+
+**Watch on YouTube:**
+[https://youtu.be/G03tb9w6HDg](https://youtu.be/G03tb9w6HDg)
+
 ## Workshop Instructions 
 [Click here to view workshop walkthrough pdf file](https://github.com/TAP-GGC/GestureControl/blob/main/documents/tutorial%20materials/GestureControl%20Workshop%20%E2%80%94%20Step-by-Step%20Guide.pdf)
 
