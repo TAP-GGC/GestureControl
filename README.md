@@ -115,10 +115,6 @@ If you're interested in more workshops that utilize Scratch, check it out [Space
 
 * [MediaPipe](https://ai.google.dev/edge/mediapipe/solutions/guide) is an open-source, cross-platform machine-learning framework created by Google for building real-time perception pipelines. It provides ready-made solutions for tasks like hand tracking, face detection, pose estimation, and object tracking, using highly optimized ML models. MediaPipe works on mobile, web, desktop, and embedded systems, making it popular for computer-vision and augmented-reality applications.
 
-## Project Setup
-<i> This section is dedicated to linking to .md files in your documents/tutorial/ folder that will contain instructions on installation
-Your repo doesn't have to have every section used below. This is just an example so you can get an idea of what your own repo should look like</i>
-
 ## How to use Gesture Control
 1. Search up a the ASL alphabet and use the pictures with Gesture Control
 2. Go to our [website](https://gesture-control-xli6.onrender.com/)
