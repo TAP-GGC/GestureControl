@@ -92,22 +92,28 @@ If you're interested in more workshops that utilize Scratch, check it out [Space
 <i> Replace Scratch with whatever technology you're using and make sure to have a logo of that technology uploaded to the technology folder within the media folder. </i>
 <!-- be sure to use the alt text feature in case anybody viewing your repo is using  screen reader! you want your workshop to be as accessible as possible -->
 <p align="center">
-  <img alt="Scratch Logo" src = "media/technology/scratch logo.png" width="200" height="200"/>
+  <img alt="PyCharm Logo" src = "media/technology/pycharm.png" width="200" height="200"/>
 </p>
 
-* [PyCharm](https://www.jetbrains.com/pycharm/) PyCharm is a professional integrated development environment (IDE) specifically designed for Python development. It provides powerful tools like intelligent code completion, debugging, refactoring, and integrated testing support.
+* [PyCharm](https://www.jetbrains.com/pycharm/) is a professional integrated development environment (IDE) specifically designed for Python development. It provides powerful tools like intelligent code completion, debugging, refactoring, and integrated testing support.
 
 <p align="center">
-  <img alt="Scratch Logo" src = "media/technology/scratch logo.png" width="200" height="200"/>
+  <img alt="OnRender Logo" src = "media/technology/Render logo - Black.jpg" width="200" height="200"/>
 </p>
 
-* [OnRender](https://render.com/) Render is a cloud hosting platform that lets developers deploy web apps, static sites, background workers, and databases with minimal configuration. It automates builds, scaling, SSL, and deployment pipelines, making it popular for hosting full-stack applications. Render offers a simple UI and Git-based deployments.
+* [OnRender](https://render.com/) is a cloud hosting platform that lets developers deploy web apps, static sites, background workers, and databases with minimal configuration. It automates builds, scaling, SSL, and deployment pipelines, making it popular for hosting full-stack applications. Render offers a simple UI and Git-based deployments.
 
 <p align="center">
-  <img alt="Scratch Logo" src = "media/technology/scratch logo.png" width="200" height="200"/>
+  <img alt="Vite Logo" src = "media/technology/Vite.png" width="200" height="200"/>
 </p>
 
-* [Vite](https://vite.dev/) Vite is a fast front-end development build tool created by Evan You, designed to provide near-instant server startup and lightning-fast hot module replacement (HMR). It uses native ES modules in development and Rollup for optimized production builds. Vite is widely used in modern frameworks like Vue, React, and Svelte for its speed and simplicity.
+* [Vite](https://vite.dev/) is a fast front-end development build tool created by Evan You, designed to provide near-instant server startup and lightning-fast hot module replacement (HMR). It uses native ES modules in development and Rollup for optimized production builds. Vite is widely used in modern frameworks like Vue, React, and Svelte for its speed and simplicity.
+
+<p align="center">
+  <img alt="MediaPipe Logo" src = "media/technology/mediapipe.jpg" width="200" height="200"/>
+</p>
+
+* [MediaPipe](https://ai.google.dev/edge/mediapipe/solutions/guide) is an open-source, cross-platform machine-learning framework created by Google for building real-time perception pipelines. It provides ready-made solutions for tasks like hand tracking, face detection, pose estimation, and object tracking, using highly optimized ML models. MediaPipe works on mobile, web, desktop, and embedded systems, making it popular for computer-vision and augmented-reality applications.
 
 ## Project Setup/Installation 
 <i> This section is dedicated to linking to .md files in your documents/tutorial/ folder that will contain instructions on installation
