@@ -115,26 +115,13 @@ If you're interested in more workshops that utilize Scratch, check it out [Space
 
 * [MediaPipe](https://ai.google.dev/edge/mediapipe/solutions/guide) is an open-source, cross-platform machine-learning framework created by Google for building real-time perception pipelines. It provides ready-made solutions for tasks like hand tracking, face detection, pose estimation, and object tracking, using highly optimized ML models. MediaPipe works on mobile, web, desktop, and embedded systems, making it popular for computer-vision and augmented-reality applications.
 
-## Project Setup/Installation 
+## Project Setup
 <i> This section is dedicated to linking to .md files in your documents/tutorial/ folder that will contain instructions on installation
-
 Your repo doesn't have to have every section used below. This is just an example so you can get an idea of what your own repo should look like</i>
-
-### Opening a blank Scratch page 
-[Click here to view instructions](/documents/tutorial%20materials/Opening%20a%20blank%20Scratch%20page.md)
-
-[Video with Scratch instructions](https://youtu.be/v-GUbj7DMEE)
-
-<!-- if your project uses scratch, you can reuse any of these instructions (be sure to include CS First alternatives) -->
-## CS First Installation Walkthrough
-[Click here to view instructions](/documents/tutorial%20materials/CS%20FIRST/CS%20First%20Walkthrough.md)
-
-### Getting to the game 
-[Click here to view instructions](/documents/tutorial%20materials/Getting%20to%20the%20Game.md)
 
 ## How to use Gesture Control
 1. Search up a the ASL alphabet and use the pictures with Gesture Control
-2. Go to our website https://gesture-control-xli6.onrender.com/ <!-- Place holder link -->
+2. Go to our [website](https://gesture-control-xli6.onrender.com/)
 3. In the dropdown menu select 'Webcam'.
 4. Click 'Start Camera' and allow camera if the option appears.
 5. If the status says 'Connected' Select a letter you like to sign.
@@ -142,12 +129,9 @@ Your repo doesn't have to have every section used below. This is just an example
 7. Sign the letter you picked
 8. When you're done click 'Stop' next to 'Start Recognition'
 
-## Short Demo Instructions 
-[Demo Video on how to install and play our game](https://youtu.be/mA80Aa55t-U)
-
 ## Workshop Instructions 
-[Click here to view workshop walkthrough pdf file](/documents/tutorial%20materials/Scratch%20Workshop%20Walkthrough.pdf)
+[Click here to view workshop walkthrough pdf file](https://github.com/TAP-GGC/GestureControl/blob/main/documents/GestureControl%20Workshop%20%E2%80%94%20Step-by-Step%20Guide.pdf)
 
-[Our Game Workshop Video](https://youtu.be/Mtsre0iMStM)
+[Our Workshop PowerPoint Video](https://youtu.be/Mtsre0iMStM)
 
 
