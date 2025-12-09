@@ -58,7 +58,6 @@ You can select from a range of audiences or a single auidience. Examples:
 * Dr. Wei Jin
 * Dr. Xin Xu
 
-
 ## :page_with_curl: Project Description
 Participants begin by exploring an AI-powered hand tracking website that provides real-time feedback on their gestures. Unlike traditional sign language learning through videos, where learners often struggle to know whether their hand positions are accurate, this system uses computer vision to mirror participants’ movements and measure their accuracy.
 
@@ -83,10 +82,9 @@ In addition to practicing sign language, participants will also be introduced to
 
 ## :mag_right: Similar Projects
 
-If you're interested in more workshops that utilize AI, check it out [AI Diva]([https://github.com/TAP-GGC/NinjaTurtles](https://tapggc.org/projects/2025/spring/ai-diva/))!
+If you're interested in more workshops that utilize AI, check it out [AI Diva]([https://github.com/TAP-GGC/NinjaTurtles](https://tapggc.org/projects/2025/spring/ai-diva/)!
 
 ## :computer: Technology
-<i> Replace Scratch with whatever technology you're using and make sure to have a logo of that technology uploaded to the technology folder within the media folder. </i>
 <!-- be sure to use the alt text feature in case anybody viewing your repo is using  screen reader! you want your workshop to be as accessible as possible -->
 <p align="center">
   <img alt="PyCharm Logo" src = "media/technology/pycharm.png" width="200" height="200"/>
