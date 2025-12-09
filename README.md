@@ -11,7 +11,7 @@
 ## :loudspeaker: About
 The objective of the workshop is to showcase the use of AI hand tracking through learning sign language.
 
-In this workshop, participants will learn the American Sign Language(ASL) alphabet through the use of AI that uses hand tracking through a computer camera. By selecting the wanted letter students and learn and practice ASL through a website.
+In this workshop, participants will learn the American Sign Language(ASL) alphabet through the use of AI that uses hand tracking through a computer camera. By selecting the wanted letter, students will learn and practice ASL through the website.
 
 ## :bulb: Project information
 <!-- 
