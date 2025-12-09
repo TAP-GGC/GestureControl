@@ -130,8 +130,8 @@ Your repo doesn't have to have every section used below. This is just an example
 8. When you're done click 'Stop' next to 'Start Recognition'
 
 ## Workshop Instructions 
-[Click here to view workshop walkthrough pdf file](https://github.com/TAP-GGC/GestureControl/blob/main/documents/GestureControl%20Workshop%20%E2%80%94%20Step-by-Step%20Guide.pdf)
+[Click here to view workshop walkthrough pdf file](https://github.com/TAP-GGC/GestureControl/blob/main/documents/tutorial%20materials/GestureControl%20Workshop%20%E2%80%94%20Step-by-Step%20Guide.pdf)
 
-[Our Workshop PowerPoint Video](https://youtu.be/Mtsre0iMStM)
+[Our Workshop PowerPoint Video]()
 
 
