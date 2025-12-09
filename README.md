@@ -10,9 +10,8 @@
 
 ## :loudspeaker: About
 The objective of the workshop is to showcase the use of AI hand tracking through learning sign language.
-<!-- You can look at other TAP projects if you need a better idea of how to describe your workshops objectives -->
 
-In this workshop, participants will learn sign language through the use of AI that will help guide them using hand tracking through a computer camera. They will learn how to spell one word before moving on to a fun memory game.
+In this workshop, participants will learn the American Sign Language(ASL) alphabet through the use of AI that uses hand tracking through a computer camera. By selecting the wanted letter students and learn and practice ASL through a website.
 
 ## :bulb: Project information
 <!-- 
@@ -31,23 +30,23 @@ You can select from a range of audiences or a single auidience. Examples:
 -->
 * <b>Difficulty Level:</b> Beginner/Intermediate
 * <b>Target Audience:</b> Middle School - College
-* <b>Duration of Workshop:</b> About 1 hour
+* <b>Duration of Workshop:</b> About 30 min
 * <b>Needed Materials:</b> Computer with camera
 * <b>Learning Outcomes:</b> The primary goal of this project is to teach participants about how AI tracking is being used 
-* <b>Your Main Technology</b> AI hand tracking, works by using computer vision to analyze and detect an object's position
+* <b>Your Main Technology</b> AI hand tracking, it works by using computer vision to analyze and detect an object's position
 * [Technology Ambassador Program](https://tapggc.org/) <b>(TAP)</b> is a project-based class that provides a collaborative environment for students to work with their fellow classmates on a semester-long project using technologies of their choice. TAP strives to increase participation in IT through numerous outreach activities and workshops that are designed to showcase the creative and fun side of technology.
 <!-- Commercial Video stored in the Media folder will be linked here -->
 
-[Commercial Video] (https://youtu.be/laJy1elCLVc)
+[Commercial Video](https://youtu.be/laJy1elCLVc)
 
 <!-- videos can also be dragged and dropped into markdown files if you want them embedded -->
 
-## :pencil2: Team: Emu Unicorn Sauce
+## :pencil2: Meet the Team: Emu Unicorn Sauce
 
 <!-- Use the team photo of your choice once youve uploaded it to the team photo folder within the media folder -->
 <img alt="art featuring batman, wonder woman, and superman" src = "media/team photos/Team Photo.JPG" width="" height="300">
 
-> (From left to right: Batman,  Wonder Woman, Superman.)
+> (From left to right: Ivana Hernandez, Joey Chen, Keren Zhang.)
 <!-- replace with full names of your team members -->
 
 * Joey Chen
@@ -61,27 +60,28 @@ You can select from a range of audiences or a single auidience. Examples:
 
 
 ## :page_with_curl: Project Description
-Participants begin by exploring an AI-powered hand tracking system that provides real-time feedback on their gestures. Unlike traditional sign language learning through videos, where learners often struggle to know whether their hand positions are accurate, this system uses computer vision to mirror participants’ movements and measure their accuracy.
+Participants begin by exploring an AI-powered hand tracking website that provides real-time feedback on their gestures. Unlike traditional sign language learning through videos, where learners often struggle to know whether their hand positions are accurate, this system uses computer vision to mirror participants’ movements and measure their accuracy.
 
-During the workshop, learners will follow guided exercises in which an AI model recognizes their hand shapes and displays a matching 3D avatar performing the correct sign. The system highlights the percentage of accuracy (e.g., 90%, 98%, 100%) to help participants understand their progress before moving to the next gesture.
+During the workshop, students will follow guided exercises in which an AI model recognizes their hand shapes and displays hand landmarks over their hand. The system highlights the percentage of accuracy (e.g., 90%, 98%, 100%) to help participants understand their progress before moving to the next gesture.
 
-The project leverages technologies such as MediaPipe for hand tracking, allowing users to see their own skeletal hand overlay compared with the target gesture in real time. By doing so, participants not only practice sign language but also gain an interactive and immersive learning experience.
+The project leverages technologies such as MediaPipe for hand tracking, allowing users to see landmarks overlay their hand. By doing so, participants not only practice sign language but also gain an interactive and immersive learning experience.
 
-Compared to traditional methods—such as watching videos or attending in-person classes—this approach is more flexible and accessible. Learners can study anywhere, anytime, while receiving immediate feedback, which significantly increases engagement and retention. This interactive model transforms sign language learning into a process that is visual, participatory, and highly effective.
+This approach to learning sign language is more flexible and accessible. Learners can study anywhere, anytime, while receiving immediate feedback, which significantly increases engagement and retention. This interactive model transforms sign language learning into a process that is visual, participatory, and highly effective.
 <!--keren 8.29.2025-->
-In addition to practicing sign language, participants will also be introduced to the underlying technology behind the system. The workshop will cover how AI hand tracking works, including concepts of computer vision, gesture recognition, and how different components (such as MediaPipe, 3D models, and accuracy scoring) are integrated into one interactive platform. By walking through these technical elements, participants will not only experience the application but also gain insight into how to build such a system themselves.
+In addition to practicing sign language, participants will also be introduced to the underlying technology behind the system. The workshop will cover how AI hand tracking works, including concepts of computer vision, gesture recognition, and how different components (such as MediaPipe and accuracy scoring) are integrated into one interactive platform. By walking through these technical elements, participants will not only experience the application but also gain insight into how to build such a system themselves.
 <!--keren 8.30.2025-->
 ## :memo: Publications
 <!-- team members, then professors/advisors. "Name of Publication", event, month and day, year, Georgia Gwinnett College. -->
-1. Team Member, Team Member, Team Member, John Doe, Jane Doe. "A Real Fake Workshop", Fake Event, April 1, 2024, Georgia Gwinnett College.  
+1. Team Member, Team Member, Team Member, John Doe, Jane Doe. "A Real Fake Workshop", Fake Event, April 1, 2024, Georgia Gwinnett College.
+2. Ivana Hernandez, Joey Chen, Keren Zhang, Dr. Wei Jin, Dr. Xin Xu. "Teaching Sign Language Using AI Hand Tracking Technology", Consortium for Computing Sciences in Colleges: Southeastern Region (CCSC:SE), November 7-8, 2025, Macon, GA
+3. Ivana Hernandez, Joey Chen, Keren Zhang, Dr. Wei Jin, Dr. Xin Xu. "Teaching Sign Language Using AI Hand Tracking Technology", CREATE Conference, November 21, 2025, Georgia Gwinnett College
 
 ## :open_hands: Outreach
 <i>List the outreach events your team has participated in. </i>
 
-Example:
-
-1. <b>TAP Expo</b>, April 1, 2021, Georgia Gwinnett College: to promote the IT field and encourage college students to sign up for TAP.
-2. <b>Class Workshops</b>, April 13-15, 2021, Georgia Gwinnett College: to promote the IT field to non-IT students.
+1. Super Saturday Series (S3), November 15, 2025, GGC – Promote IT and STEM career to middle school girls and boys
+2. Tap Expo, October 9, 2025, GGC – Promote IT field and the TAP program to college students
+3. Class Workshops, November 4-14, 2025, GGC - Promote IT to non-IT college students
 
 ## :mag_right: Similar Projects
 <i>Use this section to link to a project done in the TAP program that is related in some way to your own. This can be a sister project done during your TAP semester or a TAP project done in the past. Example: </i> 
