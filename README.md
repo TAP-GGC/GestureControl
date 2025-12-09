@@ -82,7 +82,7 @@ In addition to practicing sign language, participants will also be introduced to
 
 ## :mag_right: Similar Projects
 
-If you're interested in more workshops that utilize AI, check it out [AI Diva]([https://github.com/TAP-GGC/NinjaTurtles](https://tapggc.org/projects/2025/spring/ai-diva/)!
+If you're interested in more workshops that utilize AI, check it out [AI Diva](https://tapggc.org/projects/2025/spring/ai-diva/)!
 
 ## :computer: Technology
 <!-- be sure to use the alt text feature in case anybody viewing your repo is using  screen reader! you want your workshop to be as accessible as possible -->
