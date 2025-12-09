@@ -86,6 +86,13 @@ If you're interested in more workshops that utilize AI, check it out [AI Diva](h
 
 ## :computer: Technology
 <!-- be sure to use the alt text feature in case anybody viewing your repo is using  screen reader! you want your workshop to be as accessible as possible -->
+
+<p align="center">
+  <img alt="MediaPipe Logo" src = "media/technology/mediapipe.jpg" width="200" height="200"/>
+</p>
+
+* [MediaPipe](https://ai.google.dev/edge/mediapipe/solutions/guide) is an open-source, cross-platform machine-learning framework created by Google for building real-time perception pipelines. It provides ready-made solutions for tasks like hand tracking, face detection, pose estimation, and object tracking, using highly optimized ML models. MediaPipe works on mobile, web, desktop, and embedded systems, making it popular for computer-vision and augmented-reality applications.
+
 <p align="center">
   <img alt="PyCharm Logo" src = "media/technology/pycharm.png" width="200" height="200"/>
 </p>
@@ -103,12 +110,6 @@ If you're interested in more workshops that utilize AI, check it out [AI Diva](h
 </p>
 
 * [Vite](https://vite.dev/) is a fast front-end development build tool created by Evan You, designed to provide near-instant server startup and lightning-fast hot module replacement (HMR). It uses native ES modules in development and Rollup for optimized production builds. Vite is widely used in modern frameworks like Vue, React, and Svelte for its speed and simplicity.
-
-<p align="center">
-  <img alt="MediaPipe Logo" src = "media/technology/mediapipe.jpg" width="200" height="200"/>
-</p>
-
-* [MediaPipe](https://ai.google.dev/edge/mediapipe/solutions/guide) is an open-source, cross-platform machine-learning framework created by Google for building real-time perception pipelines. It provides ready-made solutions for tasks like hand tracking, face detection, pose estimation, and object tracking, using highly optimized ML models. MediaPipe works on mobile, web, desktop, and embedded systems, making it popular for computer-vision and augmented-reality applications.
 
 ## How to use Gesture Control
 1. Search up a the ASL alphabet and use the pictures with Gesture Control
