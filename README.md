@@ -72,21 +72,18 @@ In addition to practicing sign language, participants will also be introduced to
 <!--keren 8.30.2025-->
 ## :memo: Publications
 <!-- team members, then professors/advisors. "Name of Publication", event, month and day, year, Georgia Gwinnett College. -->
-1. Team Member, Team Member, Team Member, John Doe, Jane Doe. "A Real Fake Workshop", Fake Event, April 1, 2024, Georgia Gwinnett College.
-2. Ivana Hernandez, Joey Chen, Keren Zhang, Dr. Wei Jin, Dr. Xin Xu. "Teaching Sign Language Using AI Hand Tracking Technology", Consortium for Computing Sciences in Colleges: Southeastern Region (CCSC:SE), November 7-8, 2025, Macon, GA
-3. Ivana Hernandez, Joey Chen, Keren Zhang, Dr. Wei Jin, Dr. Xin Xu. "Teaching Sign Language Using AI Hand Tracking Technology", CREATE Conference, November 21, 2025, Georgia Gwinnett College
+1. Ivana Hernandez, Joey Chen, Keren Zhang, Dr. Wei Jin, Dr. Xin Xu. "Teaching Sign Language Using AI Hand Tracking Technology", Consortium for Computing Sciences in Colleges: Southeastern Region (CCSC:SE), November 7-8, 2025, Macon, GA
+2. Ivana Hernandez, Joey Chen, Keren Zhang, Dr. Wei Jin, Dr. Xin Xu. "Teaching Sign Language Using AI Hand Tracking Technology", CREATE Conference, November 21, 2025, Georgia Gwinnett College
 
 ## :open_hands: Outreach
-<i>List the outreach events your team has participated in. </i>
 
 1. Super Saturday Series (S3), November 15, 2025, GGC – Promote IT and STEM career to middle school girls and boys
 2. Tap Expo, October 9, 2025, GGC – Promote IT field and the TAP program to college students
 3. Class Workshops, November 4-14, 2025, GGC - Promote IT to non-IT college students
 
 ## :mag_right: Similar Projects
-<i>Use this section to link to a project done in the TAP program that is related in some way to your own. This can be a sister project done during your TAP semester or a TAP project done in the past. Example: </i> 
 
-If you're interested in more workshops that utilize Scratch, check it out [Space Mechanic](https://github.com/TAP-GGC/NinjaTurtles)!
+If you're interested in more workshops that utilize AI, check it out [AI Diva]([https://github.com/TAP-GGC/NinjaTurtles](https://tapggc.org/projects/2025/spring/ai-diva/))!
 
 ## :computer: Technology
 <i> Replace Scratch with whatever technology you're using and make sure to have a logo of that technology uploaded to the technology folder within the media folder. </i>
