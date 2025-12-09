@@ -46,7 +46,7 @@ You can select from a range of audiences or a single auidience. Examples:
 <!-- Use the team photo of your choice once youve uploaded it to the team photo folder within the media folder -->
 <img alt="Photo of Keren, Joey, and Ivana from the CCSCSE" src = "media/team photos/EUSteamphoto.jpg" width="" height="300">
 
-> (From left to right: Ivana Hernandez, Joey Chen, Keren Zhang.)
+> (From left to right: Keren Zhang, Joey Chen, Ivana Hernandez.)
 <!-- replace with full names of your team members -->
 
 * Joey Chen
